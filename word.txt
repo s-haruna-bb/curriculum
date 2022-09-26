@@ -301,3 +301,12 @@ https://e-words.jp/
 https://wa3.i-3-i.info/index.html
 https://kotobank.jp/dictionary/ityougo/
 https://medium-company.com/osi%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB/
+
+
+
+IPアドレス計算　参考
+https://www.youtube.com/watch?v=KrrK3FJNigY
+https://www.youtube.com/watch?v=RWKDsPcRksY
+https://note.cman.jp/network/subnetmask.cgi
+https://www.infraexpert.com/study/tea3.htm
+https://xtech.nikkei.com/atcl/learning/lecture/19/00007/00002/#:~:text=2%E9%80%B2%E6%95%B0%E3%81%8B%E3%82%8910%E9%80%B2%E6%95%B0%E3%81%B8%E3%81%AE%E5%A4%89%E6%8F%9B&text=%E3%81%93%E3%82%8C%E3%81%AF%E3%80%8C%E6%A1%81%E3%81%AE%E9%87%8D%E3%81%BF,%E5%80%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
